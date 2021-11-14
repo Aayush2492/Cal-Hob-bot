@@ -40,4 +40,4 @@ Run the [main.py](https://github.com/Aayush-2492/Cal-Hob-bot/blob/main/main.py) 
 3. `$calhob_on <day> <month> <year>` <day> <month> <year> - Returns strip on that date if it exists(18/11/1985 - 31/12/1995).
 
 ## LICENSE ##
-The project is licensed under [MIT LICENSE](https://github.com/Aayush-2492/Cal-Hob-bot/blob/main/LICENSE)
+The project is licensed under [MIT LICENSE](https://github.com/Aayush2492/Cal-Hob-bot/blob/main/LICENSE)
