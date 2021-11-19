@@ -32,7 +32,7 @@ depending upon the version of python you use.
 #### Step 3 ####
 Add a .env file which contains the token to your bot stored under TOKEN key.
 
-Run the [main.py](https://github.com/Aayush-2492/Cal-Hob-bot/blob/main/main.py) file and the bot is now active :)
+Run the [main.py](https://github.com/Aayush2492/Cal-Hob-bot/blob/main/main.py) file and the bot is now active :)
 
 ## Bot Commands ##
 1. `$help` - Displays all the commands.
